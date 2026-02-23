@@ -34,21 +34,21 @@ p {
 .full-name {
   font-size: 1.4em;
   font-weight: bold;
-  color: #bfbfbf;
-  text-shadow: 0 0 10px rgba(76, 175, 80, 0.35);
+  color: #00ff00;
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
   margin: 15px 0 10px 0;
 }
 
 .designation {
   font-size: 0.85em;
-  color: #bfbfbf;
+  color: #4caf50;
   margin: 5px 0;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .company {
   font-size: 0.95em;
-  color: #bfbfbf;
+  color: #4caf50;
   margin: 5px 0 10px 0;
   opacity: 0.9;
 }
@@ -57,21 +57,21 @@ p {
   display: inline-block;
   padding: 8px 16px;
   margin: 10px 0;
-  color: #bfbfbf;
-  border: 1px solid #4caf50;
+  color: #00ff00;
+  border: 1px solid #00ff00;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 
 .portfolio-link:hover {
-  background-color: rgba(76, 175, 80, 0.08);
-  box-shadow: 0 0 15px rgba(76, 175, 80, 0.45);
-  text-shadow: 0 0 10px rgba(76, 175, 80, 0.5);
+  background-color: rgba(0, 255, 0, 0.08);
+  box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
 }
 
 a {
   text-decoration: none;
-  color: #bfbfbf;
+  color: #4caf50;
 }
 
 a:hover {
@@ -80,8 +80,8 @@ a:hover {
 }
 
 h2 {
-  color: #bfbfbf;
-  text-shadow: 0 0 10px rgba(76, 175, 80, 0.35);
+  color: #4caf50;
+  text-shadow: 0 0 10px rgba(76, 175, 80, 0.5);
 }
 
 hr {
