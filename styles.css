@@ -124,6 +124,26 @@ body {
   box-shadow: 0 0 12px rgba(52, 255, 102, 0.35);
 }
 
+/* About */
+.card-about {
+  text-align: center;
+  padding: 1.75rem 1.5rem 1.25rem;
+}
+
+.about-heading {
+  margin: 0 0 0.4rem;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  color: var(--neon-green);
+  text-shadow: 0 0 14px rgba(52, 255, 102, 0.8);
+}
+
+.about-text {
+  margin: 0.15rem 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
 /* Footer */
 .card-footer {
   padding: 0.9rem 1.5rem 1.2rem;
