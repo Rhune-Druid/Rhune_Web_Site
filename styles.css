@@ -82,7 +82,7 @@ body {
 .tagline {
   margin: 0.15rem 0;
   font-size: 20px;
-  color:  var(--neon-green);
+  color: var(--neon-green);
 }
 
 /* Link buttons */
@@ -142,7 +142,7 @@ body {
 .about-text {
   margin: 0.15rem 0;
   font-size: 20px;
-  color:  var(--neon-green);
+  color: var(--neon-green);
 }
 
 /* Footer */
